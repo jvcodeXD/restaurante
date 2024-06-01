@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "g4bi+8Q3lOq6Y+TgTvsQWTE0NuzpVHPgnFxSdI+uivgVNbw0e0Y6IwCdEJGHlZaegdKbPVQ1l+3nXJpZ5fsGPg==",
   "success": true,
   "projectFilePath": "D:\\FNI\\SIS\\act\\restaurante\\Restaurante.csproj",
+=======
+  "dgSpecHash": "v8KSLiKRPRNZqR8jW2FArkbmE0ceFcpeIJdqc/T5cjY3yyVLa8w1r6yOycFxfOIYhQc5ASDu4vKxxQGmdv9b3w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USUARIO\\Documents\\FNI\\restaurante\\Restaurante.csproj",
+>>>>>>> 2abcc796bb60dc52ea08496049783da7385190aa
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.10\\microsoft.data.sqlite.core.7.0.10.nupkg.sha512",

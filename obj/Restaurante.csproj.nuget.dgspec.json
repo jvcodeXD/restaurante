@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "D:\\FNI\\SIS\\act\\restaurante\\Restaurante.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "D:\\FNI\\SIS\\act\\restaurante\\Restaurante.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
         "outputPath": "D:\\FNI\\SIS\\act\\restaurante\\obj\\",
+=======
+    "C:\\Users\\USUARIO\\Documents\\FNI\\restaurante\\Restaurante.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\USUARIO\\Documents\\FNI\\restaurante\\Restaurante.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\USUARIO\\Documents\\FNI\\restaurante\\Restaurante.csproj",
+        "projectName": "Restaurante",
+        "projectPath": "C:\\Users\\USUARIO\\Documents\\FNI\\restaurante\\Restaurante.csproj",
+        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USUARIO\\Documents\\FNI\\restaurante\\obj\\",
+>>>>>>> 2abcc796bb60dc52ea08496049783da7385190aa
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
