@@ -3,6 +3,10 @@
     "",
     "\\Models"
   ],
+<<<<<<< HEAD
   "SelectedNode": "\\Restaurante.sln",
+=======
+  "SelectedNode": "\\Models",
+>>>>>>> ad72413100c8c2a213d808f6db1440facf746d1c
   "PreviewInSolutionExplorer": false
 }
