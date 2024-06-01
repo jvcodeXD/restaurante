@@ -1303,24 +1303,61 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\HP\\.nuget\\packages\\": {},
+=======
+<<<<<<< HEAD
+    "C:\\Users\\HP\\.nuget\\packages\\": {}
+=======
+    "C:\\Users\\DELL\\.nuget\\packages\\": {},
+>>>>>>> a82a8a0af96f5ca6f7d9866236d53aa041bd0a54
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+>>>>>>> ad72413100c8c2a213d808f6db1440facf746d1c
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "D:\\FNI\\SIS\\act\\restaurante\\Restaurante.csproj",
       "projectName": "Restaurante",
       "projectPath": "D:\\FNI\\SIS\\act\\restaurante\\Restaurante.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
       "outputPath": "D:\\FNI\\SIS\\act\\restaurante\\obj\\",
+=======
+<<<<<<< HEAD
+      "projectUniqueName": "C:\\Users\\HP\\OneDrive\\Documentos\\Circuitos Crocodile\\restaurante\\Restaurante.csproj",
+      "projectName": "Restaurante",
+      "projectPath": "C:\\Users\\HP\\OneDrive\\Documentos\\Circuitos Crocodile\\restaurante\\Restaurante.csproj",
+      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\HP\\OneDrive\\Documentos\\Circuitos Crocodile\\restaurante\\obj\\",
+=======
+<<<<<<< HEAD
+      "projectUniqueName": "C:\\Users\\DELL\\Desktop\\cllase aux\\restaurante\\Restaurante.csproj",
+      "projectName": "Restaurante",
+      "projectPath": "C:\\Users\\DELL\\Desktop\\cllase aux\\restaurante\\Restaurante.csproj",
+      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\DELL\\Desktop\\cllase aux\\restaurante\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\USUARIO\\Documents\\FNI\\restaurante\\Restaurante.csproj",
+      "projectName": "Restaurante",
+      "projectPath": "C:\\Users\\USUARIO\\Documents\\FNI\\restaurante\\Restaurante.csproj",
+      "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\USUARIO\\Documents\\FNI\\restaurante\\obj\\",
+>>>>>>> 2abcc796bb60dc52ea08496049783da7385190aa
+>>>>>>> ad72413100c8c2a213d808f6db1440facf746d1c
+>>>>>>> a82a8a0af96f5ca6f7d9866236d53aa041bd0a54
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
+<<<<<<< HEAD
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+<<<<<<< HEAD
+        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> a82a8a0af96f5ca6f7d9866236d53aa041bd0a54
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+>>>>>>> ad72413100c8c2a213d808f6db1440facf746d1c
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1388,7 +1425,11 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+=======
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+>>>>>>> ad72413100c8c2a213d808f6db1440facf746d1c
       }
     }
   },
