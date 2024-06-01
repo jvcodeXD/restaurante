@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\FNI\\SIS\\act\\restaurante\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{39369051-BA30-4E59-B1DA-4599E35D30B7}|Restaurante.csproj|d:\\fni\\sis\\act\\restaurante\\models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39369051-BA30-4E59-B1DA-4599E35D30B7}|Restaurante.csproj|solutionrelative:models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{39369051-BA30-4E59-B1DA-4599E35D30B7}|Restaurante.csproj|d:\\fni\\sis\\act\\restaurante\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39369051-BA30-4E59-B1DA-4599E35D30B7}|Restaurante.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39369051-BA30-4E59-B1DA-4599E35D30B7}|Restaurante.csproj|d:\\fni\\sis\\act\\restaurante\\models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39369051-BA30-4E59-B1DA-4599E35D30B7}|Restaurante.csproj|solutionrelative:models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{39369051-BA30-4E59-B1DA-4599E35D30B7}|Restaurante.csproj|d:\\fni\\sis\\act\\restaurante\\dto\\cargoenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,17 +22,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Reserva.cs",
               "DocumentMoniker": "D:\\FNI\\SIS\\act\\restaurante\\Models\\Reserva.cs",
               "RelativeDocumentMoniker": "Models\\Reserva.cs",
               "ToolTip": "D:\\FNI\\SIS\\act\\restaurante\\Models\\Reserva.cs",
               "RelativeToolTip": "Models\\Reserva.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAqAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-01T15:05:12.652Z",
               "EditorCaption": ""
@@ -47,12 +47,11 @@
               "RelativeToolTip": "Dto\\CargoEnum.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T14:52:14.287Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T14:52:14.287Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Usuario.cs",
               "DocumentMoniker": "D:\\FNI\\SIS\\act\\restaurante\\Models\\Usuario.cs",
               "RelativeDocumentMoniker": "Models\\Usuario.cs",
