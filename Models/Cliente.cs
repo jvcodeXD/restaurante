@@ -3,18 +3,17 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Restaurante.Models
 {
-    public class Pedido
+    public class Cliente
     {
-
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int Id { get; set; }
         [Required]
-        
-        public double CostoTotal { get; set; }
-        public DateTime Fecha { get; set; }
-        public int IdUsuario { get; set; }
-        public string? Cliente { get; set; }
-       
+        public string? Correo { get;set; }
+        [Required]
+        public int Nit  { get; set; }
+        [Required]
+        public string? Nombre { get; set; }
+     
     }
 }

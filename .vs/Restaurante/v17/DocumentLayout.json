@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "Models\\Pedido.cs",
               "ToolTip": "C:\\Users\\gioseth\\Documents\\xd\\restaurante\\Models\\Pedido.cs",
               "RelativeToolTip": "Models\\Pedido.cs",
-              "ViewState": "AQIAAAYAAAAwAAAAAAAQwAkAAAA9AAAA",
+              "ViewState": "AQIAAAQAAAAAMzMzMzMrwBIAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-01T15:04:53.263Z",
               "EditorCaption": ""
@@ -59,8 +59,7 @@
               "RelativeToolTip": "Models\\Usuario.cs",
               "ViewState": "AQIAAAUAAAAQMzMzMzMdwAkAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T15:00:29.236Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T15:00:29.236Z"
             }
           ]
         }
