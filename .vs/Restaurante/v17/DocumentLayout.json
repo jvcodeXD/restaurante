@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\AUX-SIS2420 B\\PROYECTO AUX\\restaurante\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39369051-BA30-4E59-B1DA-4599E35D30B7}|Restaurante.csproj|g:\\aux-sis2420 b\\proyecto aux\\restaurante\\models\\detalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39369051-BA30-4E59-B1DA-4599E35D30B7}|Restaurante.csproj|solutionrelative:models\\detalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39369051-BA30-4E59-B1DA-4599E35D30B7}|Restaurante.csproj|g:\\aux-sis2420 b\\proyecto aux\\restaurante\\contexto\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39369051-BA30-4E59-B1DA-4599E35D30B7}|Restaurante.csproj|solutionrelative:contexto\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39369051-BA30-4E59-B1DA-4599E35D30B7}|Restaurante.csproj|g:\\aux-sis2420 b\\proyecto aux\\restaurante\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39369051-BA30-4E59-B1DA-4599E35D30B7}|Restaurante.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39369051-BA30-4E59-B1DA-4599E35D30B7}|Restaurante.csproj|g:\\aux-sis2420 b\\proyecto aux\\restaurante\\dto\\cargoenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39369051-BA30-4E59-B1DA-4599E35D30B7}|Restaurante.csproj|solutionrelative:dto\\cargoenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyContext.cs",
+              "DocumentMoniker": "G:\\AUX-SIS2420 B\\PROYECTO AUX\\restaurante\\Contexto\\MyContext.cs",
+              "RelativeDocumentMoniker": "Contexto\\MyContext.cs",
+              "ToolTip": "G:\\AUX-SIS2420 B\\PROYECTO AUX\\restaurante\\Contexto\\MyContext.cs",
+              "RelativeToolTip": "Contexto\\MyContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T15:07:33.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Detalle.cs",
+              "DocumentMoniker": "G:\\AUX-SIS2420 B\\PROYECTO AUX\\restaurante\\Models\\Detalle.cs",
+              "RelativeDocumentMoniker": "Models\\Detalle.cs",
+              "ToolTip": "G:\\AUX-SIS2420 B\\PROYECTO AUX\\restaurante\\Models\\Detalle.cs",
+              "RelativeToolTip": "Models\\Detalle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T15:04:03.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CargoEnum.cs",
+              "DocumentMoniker": "G:\\AUX-SIS2420 B\\PROYECTO AUX\\restaurante\\Dto\\CargoEnum.cs",
+              "RelativeDocumentMoniker": "Dto\\CargoEnum.cs",
+              "ToolTip": "G:\\AUX-SIS2420 B\\PROYECTO AUX\\restaurante\\Dto\\CargoEnum.cs",
+              "RelativeToolTip": "Dto\\CargoEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T14:49:02.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "G:\\AUX-SIS2420 B\\PROYECTO AUX\\restaurante\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Models\\Usuario.cs",
+              "ToolTip": "G:\\AUX-SIS2420 B\\PROYECTO AUX\\restaurante\\Models\\Usuario.cs",
+              "RelativeToolTip": "Models\\Usuario.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T14:49:02.758Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
