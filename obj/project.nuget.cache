@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xVnSpNmr8COjB4PAYxRcInMhRbcL7/DvvQknbUImxyhD4vO7izKZP7ziuD1FNec3GeKnpLsobbRZ9edK/dY7rA==",
+  "dgSpecHash": "v8KSLiKRPRNZqR8jW2FArkbmE0ceFcpeIJdqc/T5cjY3yyVLa8w1r6yOycFxfOIYhQc5ASDu4vKxxQGmdv9b3w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\Code\\C#\\Restaurante\\Restaurante.csproj",
+  "projectFilePath": "C:\\Users\\USUARIO\\Documents\\FNI\\restaurante\\Restaurante.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USUARIO\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\USUARIO\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.10\\microsoft.data.sqlite.core.7.0.10.nupkg.sha512",
