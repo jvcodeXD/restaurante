@@ -3,6 +3,10 @@
     "",
     "\\Models"
   ],
+<<<<<<< HEAD
   "SelectedNode": "\\Models\\Usuario.cs",
+=======
+  "SelectedNode": "\\Models",
+>>>>>>> 2abcc796bb60dc52ea08496049783da7385190aa
   "PreviewInSolutionExplorer": false
 }

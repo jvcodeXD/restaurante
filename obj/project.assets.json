@@ -1308,11 +1308,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "G:\\AUX-SIS2420 B\\PROYECTO AUX\\restaurante\\Restaurante.csproj",
       "projectName": "Restaurante",
       "projectPath": "G:\\AUX-SIS2420 B\\PROYECTO AUX\\restaurante\\Restaurante.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
       "outputPath": "G:\\AUX-SIS2420 B\\PROYECTO AUX\\restaurante\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\USUARIO\\Documents\\FNI\\restaurante\\Restaurante.csproj",
+      "projectName": "Restaurante",
+      "projectPath": "C:\\Users\\USUARIO\\Documents\\FNI\\restaurante\\Restaurante.csproj",
+      "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\USUARIO\\Documents\\FNI\\restaurante\\obj\\",
+>>>>>>> 2abcc796bb60dc52ea08496049783da7385190aa
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
