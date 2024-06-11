@@ -8,7 +8,7 @@ namespace Restaurante.Models
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int Id { get; set; }
-        [Key]
+        
         public int IdCliente { get; set; }
         [Required]
         public string? Estado { get; set; }
