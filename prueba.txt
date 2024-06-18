@@ -1,2 +1,1 @@
-esta es una prueba
-modificada
+este es un archivo de prueba
