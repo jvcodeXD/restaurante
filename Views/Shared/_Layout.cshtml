@@ -1,4 +1,5 @@
-﻿<!DOCTYPE html>
+﻿@using System.Security.Claims
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8" />
@@ -29,6 +30,14 @@
                             <a class="nav-link text-light" asp-area="" asp-controller="Usuarios" asp-action="Index">Usuarios</a>
                         </li>
                     </ul>
+                    <div class="d-flex">
+                        @* @if(User.IsInRole("Administrador"))
+                        {
+                            
+                        } *@
+                        <span class="navbar-text">@User.Identity.Name - @User.FindFirstValue(ClaimTypes.Role)</span>
+                        <a class="nav-link" asp-controller="Login" asp-action="Logout">Salir</a>
+                    </div>
                 </div>
             </div>
         </nav>
