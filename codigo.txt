@@ -28,3 +28,20 @@ builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationSc
 
 
 app.UseAuthentication();
+
+
+
+
+
+private async Task subirArchivo(Formulario formulario)
+        {
+            string wwwRootPath = _webHostEnvironment.WebRootPath;
+            string extension = Path.GetExtension(formulario.ArchivoFile!.FileName);
+            Guid randomGuid = Guid.NewGuid();
+            string nombreArchivo = $"{randomGuid}{extension}";
+            formulario.Archivo = nombreArchivo;
+
+            string path = Path.Combine($"{wwwRootPath}/files/", nombreArchivo);
+            var fileStream = new FileStream(path, FileMode.Create);
+            await formulario.ArchivoFile.CopyToAsync(fileStream);
+        }
